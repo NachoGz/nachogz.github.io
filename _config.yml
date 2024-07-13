@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Ignacio\'s Website
+title: Ignacio's Website
 
 # Your name to show in the footer
 author: Ignacio Gomez
@@ -21,10 +21,6 @@ author: Ignacio Gomez
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
