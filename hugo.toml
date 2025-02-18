@@ -1,4 +1,4 @@
-baseurl = "https://nachogz.github.io/"
+baseURL = "https://nachogz.github.io/"
 title = "nacho gomez"
 theme = "hugo-theme-console"
 languageCode = "en-us"
